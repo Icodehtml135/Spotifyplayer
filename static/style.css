@@ -5,6 +5,12 @@ body {
     margin: 0;
     padding: 2rem;
     text-align: center;
+
+  background-color: #121212;
+  color: #ffffff;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
 }
 
 .container {
